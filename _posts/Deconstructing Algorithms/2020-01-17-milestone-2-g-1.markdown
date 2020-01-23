@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "m2-g1: Inference from the Brief"
+date:   2020-01-17 22:54:06 +0530
+categories: jekyll update
+---
+Inference from the brief
+
+The now existing culture of algorithms is one of those inventions that inventors did, could not and can never completely comprehend the degrees of possibilities and consequences they have to offer towards human lives and experiences. And it was innately driven by the idea of delegating tasks to explore efficient ways of doing tasks.
+
+I find it ever more complex because we can directly relate to mindsets and functioning of the mind, except like not all people are the same, opinions and processes matter to people differently. And yet, despite being surrounded with and around technological influence, we often forget to witness how technology is shaping our mannerisms, habits in the name and cause of saving time and making decision making faster. There is a clear gap in the way these advancements are perceived, a debatable flaw of how things are presented at both ends. The brief identifies two major ways of looking at the problems:
+
+The first, how I see it  is the sense-making aspect, where the imagery and use of code, mathematics and science is dominant and offers an unapproachable front to the interested. Contribution towards challenges on this side is hindered because information comes from discrete and structured forms, offering the opportunity to explore in a passage building sense.
+
+The other is the ‘making-problem’ that points towards the need to develop the current and upcoming better, where lies the problem of understanding the behind-the-scenes of algorithm design and development. There is an opportunity to nurture the idea of acknowledging how easily we get onboard with faster / more efficient processes; and yet cannot and probably should not trust the objective-ness offered by computing. At deeper levels, these are also informed and misled by the way we perceive meaning in language described notoriously by the philosophy of deconstruction. Deconstruction itself also as an abstract concept can offer methods to design to induce conversation to bring in engagement, interest and/or understanding of upbringing technology correctly. Knowing this much, how must contribution towards such a problem be enabled?
+
+It was noted that the brief mentioned the use of “combining contrasting view-points of understanding the structured process of designing and programming algorithms”, putting design before development like every other problem solving process.
+Derrida’s philosophy offers the idea of language suddenly becoming relevant at the discovery of ‘meaning’. Illustrated by the argument by Levi Strauss- culture being acknowledged at a point after the establishment of nature. It debates that the definition of culture brings in an overwhelming nostalgia about nature. Here, Derrida argues it can’t be true since there would be no nature, if culture did not exist for us to think about it. (Chicken-egg). The point established here suggested nature would be meaningless without culture, and that the direction, i.e nature-culture (one giving meaning to another by existing first, i.e an event, being causative to the other) and culture-nature (one existing because the prior was comforting in a sense causing nostalgia) and their associated drastic alterations to meanings were the recurring arguments. While these are the literary notions of shaping our understanding of the world, the algorithm proceeding in either of those ways of interpretation could be far from delivering the intended meaning. After all, the labelling and core control on the way things are organized within still lie in and for human interpretation. And here this deviation may also find itself giving rise to the concept of biases
+
+The concept of ‘culture machine’ offers a reflective stance to look at ‘the cultural shadow shaped by this long tradition of magical thinking’ as described by Ed Finn; as algorithms: ‘the method of solving a problem’ rooting beyond just mathematical logic.
+I see a certain hope in this complexity of our maturing language, the growing possibilities for us to express, represent and curate; if perceived correctly. Algorithms execute what we ask of them, and they deliver for the meaning it is made to make of what we ask. The quest here is two-way, not one, where we understand the world and represent it, and subsequently how it is fed for a non-questioner to execute. Because instead, at the moment, the control lies with those in control or conversation with computers and for them to represent for all alone efficiently is quite the demand.
+
+
+
+I came across this somewhere or this is a derived thought but oddly enough such a dream calls for a speculative future, where a scary monopolistic control over algorithm development can be a consequence of people failing to contribute. Thus giving rise to an urge for humans to adopt objective lifestyles.
+
+Simran Singh
