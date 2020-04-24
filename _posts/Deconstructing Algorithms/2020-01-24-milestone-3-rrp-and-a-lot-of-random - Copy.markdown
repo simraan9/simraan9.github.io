@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "m3: RRP, and a lot of random"
+title:  "RRP, and a lot of random"
 date:   2020-01-24 22:54:06 +0530
 categories: jekyll update
 ---
