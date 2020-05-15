@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top:0px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -13,10 +13,11 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 4.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  font-family: "PT Sans", sans-serif;
 
   &,
   &:visited {
@@ -26,7 +27,8 @@
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 4.20;
+
 
   .nav-trigger {
       display: none;
