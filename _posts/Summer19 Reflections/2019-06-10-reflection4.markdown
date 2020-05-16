@@ -3,7 +3,7 @@ layout: post
 title:  "Week 4/8: Mid-internship "
 date:   2019-06-10 17:13:15 +0530
 <!-- secondary: secondary -->
-category: reflection
+category: [Reflection, Summer19]
 ---
 
 There are days you go by trying new ideas. Then there are days where you just want to know what needs to be done to just finish it off. When there are days when you’re confused between the two, you’re your worst enemy. You know how I learnt that?

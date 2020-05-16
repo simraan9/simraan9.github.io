@@ -2,7 +2,7 @@
 layout: post
 title:  "'The Value of Science' - Review"
 date:   2019-05-18 17:13:15 +0530
-category: review
+category: [Research Papers, Summer19]
 <!-- primary: primary -->
 ---
 Ever wondered what all goes on in the mind of a scientist, as they geek their lives away in books constantly on the quest of new discoveries?

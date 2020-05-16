@@ -2,9 +2,8 @@
 layout: post
 title:  "Inference from the Brief"
 date:   2020-01-17 22:54:06 +0530
-categories: jekyll update
+categories: Deconstructing-Algorithms
 ---
-Inference from the brief
 
 The now existing culture of algorithms is one of those inventions that inventors did, could not and can never completely comprehend the degrees of possibilities and consequences they have to offer towards human lives and experiences. And it was innately driven by the idea of delegating tasks to explore efficient ways of doing tasks.
 

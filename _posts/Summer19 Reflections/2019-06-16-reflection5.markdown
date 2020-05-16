@@ -3,7 +3,7 @@ layout: post
 title:  "Week 5/8: Make Make Make"
 date:   2019-06-16 17:13:15 +0530
 <!-- secondary: secondary -->
-category: reflection
+category: [Reflection, Summer19]
 ---
 In consistent awareness of losing time and pending tasks, I had trouble trusting myself with closing tasks, which in retrospect sounds redundant. It’s not a great feeling, I’ll tell you that.
 The tasks I thought complete, (the icosahedron body, of other things) wouldn’t look the same because paper folding had its drawbacks. The idea was to construct a hemispherical icosahedron outer body for the Capt Mashes project, but it wouldn’t look the same.

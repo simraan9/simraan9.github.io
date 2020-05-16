@@ -3,7 +3,7 @@ layout: post
 title:  "Week 6/8: The Tower of all Towers"
 date:   2019-06-23 17:13:15 +0530
 <!-- secondary: secondary -->
-category: reflection
+category: [Reflection, Summer19]
 ---
 Its funny how I titled this reflection days ago with a different idea in mind, to now where I only see 6 weeks behind me. A perception of which is confused: A growing tower of knowledge, work and planning, ideally a well constructed visual artefact; instead conflicted by being an unstable floating tower (thank you Analemma for this thought) with pieces only held together, solidifying slowly into one tall-growing tower.
 No, I don't exactly know what that means either. Try not to dig deep.

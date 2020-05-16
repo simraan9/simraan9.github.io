@@ -3,7 +3,7 @@ layout: post
 title:  "'Why do we need friendly AI' - Review"
 date:   2019-06-01 17:13:15 +0530
 <!-- primary: primary -->
-category: review
+category: [Research Papers, Summer19]
 ---
 
 If I ask you the accurate definition of intelligence, would you get it right in the first go? Would you be able to tell me everything every factor that meddles into defining what it means?

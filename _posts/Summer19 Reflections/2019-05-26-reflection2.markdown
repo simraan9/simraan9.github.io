@@ -3,7 +3,7 @@ layout: post
 title:  "Week 2/8: Plan"
 date:   2019-05-26 17:13:15 +0530
 <!-- secondary: secondary -->
-category: reflection
+category: [Reflection, Summer19]
 ---
 
 How soon is too soon to say too soon that I felt accomplished last week and hoped it would last for a long time? I’m not sad because I like challenging myself. But I probably never took calendars as seriously as I did this past week.

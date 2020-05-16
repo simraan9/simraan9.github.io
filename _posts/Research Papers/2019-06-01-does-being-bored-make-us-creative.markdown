@@ -3,7 +3,7 @@ layout: post
 title:  "'Does being bored make us creative' - Review"
 date:   2019-06-01 17:13:15 +0530
 <!-- primary: primary -->
-category: review
+category: [Research Papers, Summer19]
 ---
 
 As students of design, we acknowledge the value of creativity. But have you ever wondered how your mind makes those creative juices?

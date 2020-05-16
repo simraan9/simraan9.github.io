@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "RRP, and a lot of random"
+title:  "RRP & a lot of random (Week 3)"
 date:   2020-01-24 22:54:06 +0530
-categories: jekyll update
+categories: Deconstructing-Algorithms
 ---
 
-Week 3 Summary : m3
-
-
 “I’m trying to befriend you. Don’t run from me, time!”
-this entire week, Simran Singh
+this entire week, Simran Singh. In retrospect, what?!
 
 It was a Reorganize, Repair and Prepare week for getting to the proposal next week, fighting stress for deadlines while having fun with it. As I set out this week prepared to kill all problems, I realized the problem with being a designer. Or the problem of being a designer in your final year. ‘Dealing with a new problem everyday’. This was the exact exciting idea that personally brought me here. But what next, if it slows you down! The phrase ‘killing the problem’ is too barbaric. Unless you’re a great magician of the world, envisioning and creating your own tools to make your own life easier. Only ‘make’ can help the ‘think’. Make your life easier.
 
@@ -35,4 +32,6 @@ I found it difficult to understand why Derrida would be thought as ‘a weird gu
 The breather / pause - may have been one of the first to-go for humankind to ‘snap out of it’ in times of utter confusion and distress. I imagine the black-box as a dark space where all possibilities, best to the worst case are being run through. Luckily for machines and their lack of feelings, they don’t quit, but they do need help! These are random connections but the idea of a ‘pause’ can be used to bring in inclusivity towards algorithms.
 
 Signing off, in an alternate universe, an algorithm lawyer today
+
+
 24 January 2020

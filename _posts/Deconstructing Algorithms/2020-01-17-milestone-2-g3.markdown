@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Deconstruction, Derrida and My everyday life (Part 2)"
+title:  "Deconstruction, Derrida and My everyday life (Part 2- Week 1)"
 date:   2020-01-17 22:54:06 +0530
-categories: jekyll update
+categories: Deconstructing-Algorithms
 ---
 I learnt how to make an origami crane a night before this week. We constructed Ori-baka, a sound-only language guided by the actions performed and decisions made while making the basic folds and bases.
 In order to do so, we had to gather our shared understanding of actions and how they are affected when placed one after the other. At any moment where something felt difficult, the fact that we could coin a new word was reassuring.
