@@ -2,7 +2,7 @@
 layout: post
 title:  "Deconstruction, Derrida and My everyday life! (Part 1- Week 1)"
 date:   2020-01-17 22:54:06 +0530
-categories: Deconstructing-Algorithms
+categories: [Reflection, Deconstructing-Algorithms]
 ---
 
 I begin with My everyday life first, because I think at the beginning of my thesis project, however it may turn up, I owe it to myself to document the headspace I am consciously creating through a lifestyle to give justice to this project. This is important to establish since my last self-driven long-term project, despite one of my best shots could have done more than I let it. Hence, there are certain risks I am more willing to take, challenges I’m more open towards (including studying philosophy because I can get all philosophical, but design calls for storytelling) and here’s how it works in my head :

@@ -2,7 +2,7 @@
 layout: post
 title:  "RRP & a lot of random (Week 3)"
 date:   2020-01-24 22:54:06 +0530
-categories: Deconstructing-Algorithms
+categories: [Reflection, Deconstructing-Algorithms]
 ---
 
 “I’m trying to befriend you. Don’t run from me, time!”
