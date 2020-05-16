@@ -10,8 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h4 class="post-list-heading"><b>{{ page.list_title | default: "If you must proceed, you must know these <br>posts are labeled with time for a reason" }}</b></h4>
-    <h4> This blog is my time capsule. </h4>
+    <h4 class="post-list-heading"><b>{{ page.list_title | default: "Time Capsules" }}</b></h4>
     <br>
     <ul class="post-list">
       {%- for post in site.posts -%}
