@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Yours Sincerely
 permalink: /about/
 ---
-#### Hello!
-#### I'm Simran Singh, a final year student of Human-Centered Design at Srishti Institute of Art, Design & Technology, Bangalore. This is my blog, consisting of the things I read and the thoughts I have about them, things I find fascinating. I'm interested in how algorithms run in nature and subsequently, the technology in our ecosystems. I'm currently working on designing ways to introduce Algorithmic Literacy via Algorithmic Thinking in Indian schools.
+### Simran Singh
+#### A 2020 graduate of Human-Centered Design from Srishti Institute of Art, Design & Technology, Bangalore. This is her blog, consisting of the things she reads and the thoughts she has about them, things found fascinating. To get in touch, email at simran.singh9@yahoo.com
 
 
 
 Find my work at: | [Portfolio] (simran.myportfolio.com) | [Medium] (https://medium.com/mathscapes/mathscapes-summer-of-2019-7a8cca7607df)
-Connect with me: | [Twitter] (https://twitter.com/simraan98) | 
+Connect with me: | [Twitter] (https://twitter.com/simraan98) |
