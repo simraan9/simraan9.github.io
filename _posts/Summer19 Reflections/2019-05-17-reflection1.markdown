@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1/8: Notes to self  ✍️"
+title:  "👁️‍🗨 1/8: Notes to self  ✍️"
 date:   2019-05-17 17:13:15 +0530
 category: [Reflection, Summer19]
 <!-- secondary: secondary -->

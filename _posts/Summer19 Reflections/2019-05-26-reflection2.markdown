@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2/8: Plan  ✍️"
+title:  "👁️‍🗨️ 2/8: Plan  ✍️"
 date:   2019-05-26 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Reflection, Summer19]

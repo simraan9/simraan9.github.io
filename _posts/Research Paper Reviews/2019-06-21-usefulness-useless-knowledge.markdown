@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usefulness of Useless Knowledge 📝"
+title:  "📝Usefulness of Useless Knowledge -Abraham Flexner "
 date:   2019-06-21 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Research Papers, Summer19]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Does being bored make us creative? 📝"
+title:  "📝 Does being bored make us creative? - Sandi Mann and Rebekah Cadman "
 date:   2019-06-01 17:13:15 +0530
 <!-- primary: primary -->
 category: [Research Papers, Summer19]

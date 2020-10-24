@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Being Smart 📝"
+title:  "📝On Being Smart - Nabil H. Mustafa "
 date:   2019-06-21 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Research Papers, Summer19]

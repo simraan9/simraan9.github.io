@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 4/8: Mid-internship  ✍️"
+title:  "👁️‍🗨️ 4/8: Mid-internship  ✍️"
 date:   2019-06-10 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Reflection, Summer19]

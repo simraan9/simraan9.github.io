@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3/8: Uncertainty and confidence  ✍️"
+title:  "👁️‍🗨️ 3/8: Uncertainty and confidence  ✍️"
 date:   2019-06-02 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Reflection, Summer19]

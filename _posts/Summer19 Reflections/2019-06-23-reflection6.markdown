@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 6/8: The Tower of all Towers  ✍️"
+title:  "👁️‍🗨️ 6/8: The Tower of all Towers  ✍️"
 date:   2019-06-23 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Reflection, Summer19]
