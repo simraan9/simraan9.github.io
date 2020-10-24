@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Zero Knowledge Protocol' - Review"
+title:  "Zero Knowledge Protocol 📝"
 date:   2019-05-19 17:13:15 +0530
 <!-- primary: primary -->
 category: [Research Papers, Summer19]

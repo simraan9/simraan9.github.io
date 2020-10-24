@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RRP & a lot of random (Week 3)"
+title:  "🎓 Deconstruction caused destruction, then I made blocks for construction ✍️"
 date:   2020-01-24 22:54:06 +0530
 categories: [Reflection, Deconstructing-Algorithms]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'The Value of Science' - Review"
+title:  "The Value of Science 📝"
 date:   2019-05-18 17:13:15 +0530
 category: [Research Papers, Summer19]
 <!-- primary: primary -->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Usefulness of Useless Knowledge' - Review"
+title:  "Usefulness of Useless Knowledge 📝"
 date:   2019-06-21 17:13:15 +0530
 <!-- secondary: secondary -->
 category: [Research Papers, Summer19]

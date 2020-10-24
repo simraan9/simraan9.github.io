@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Why do we need friendly AI' - Review"
+title:  "Why do we need friendly AI 📝"
 date:   2019-06-01 17:13:15 +0530
 <!-- primary: primary -->
 category: [Research Papers, Summer19]
