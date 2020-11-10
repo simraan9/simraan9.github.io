@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "🗭 User Experience"
+date:   2017-09-04 17:13:15 +0530
+category: [Reflection, Studios]
+<!-- primary: primary -->
+---
+
+## First practical encounter with UX, 2017
+
+User Experience as a field of study is approached differently from the perspectives of a User and Designer. User Experience- the term when broken down to ‘user’ involves usability and usage on the consumer’s end but from a zoomed out lens. ‘Experience’ indicates focus on the user’s psychology and emotions. Collectively, User Experience is an important part of the design process. It is different from the usual process because the focus is shifted to how a person interacts with an interface and what do they take away from the interaction. The user’s needs are kept as the sole motivation behind working on a solution. UX aims at improving usage, keeping in mind the user’s mental models and feelings. In the process, designers more clearly identify and understand the user’s goals and perspectives in order to make the interaction more suitable.
+
+
+But how is an experience created?
+
+In a broader sense, there is a need to form a connection with the kind of experience we want the user to have. It could either be ‘moment by moment’ or an ‘aesthetic driven interaction’, as quoted by Marc Hassenzahl. Experiences, good or bad can be used are triggers to create or think of better ones. By listing factors that contribute to a type of experience and defining what it means to feel a certain way- to experience something immersive and engaging, a designer can build an experience in an informed and backed up manner. It is important to also consider what already exists to have the relatability factor so that familiar experiences may be accounted for.
+
+An interesting example quoted in the readings spoke about how the sales of CDs in the music industry have significantly gone down but their sales on concerts have really risen in the past years. This points to the fact that people acknowledge experiences more than materialistic needs. This, I feel is a great starting point as an opportunity for designers like us to explore how these very experiences can be enhanced. In terms of UX giving rise to a final solution, there can never be an end point to a holistic experience. With passing time and people familiarizing themselves to an experience, there
+are always rising expectations. Different people react to the same things differently, and all of their view points are crucial in developing something more apt for the users.
+
+### This was followed by a project called ?Plants
+
+The '?' was open to question, judge or wonder whatever one would like it to
+be- what, where, how, why-plants) The idea behind choosing this was to target the disconnect that we’ve all began to face with nature.
+
+### Mini-project Reflections
+#### 1
+
+While there are people who care about nature, a lot of us are driven so much by technology and what is happening around us that we forget that we are also a part of a bigger ecosystem called nature. We barely remember names of plant species and the types of trees around us. I reckon this very same scenario applies very differently to elder generations than ours because they encountered technology way after we got exposed to it. To be able to cater this experience in today’s time could be an interesting starting point for us, and that’s why we chose to take it forward.
+After planning our timeline for the next 4 weeks, we decided to look into personas. We built 3 proto-personas, targeting 3 different kinds of people and their view about plants. Two extremists (very determined about plants and one not caring about them at all) and one in between. I built a user persona for the first time, and I personally had to think a lot about
+this person. I managed to build Aditi (image below) as a student pursuing her choice of career, only caring about what immediately affects her. She would be okay with plants if they affect her and her work in a positive manner.
+
+#### 2
+**Who are we designing for?**
+
+Our proto-personas from last week- Ms. Jane, Aditi and Samresh helped build a clear picture in our heads about the kind of people we thought would have experiences with plants they’d like to talk about. We scheduled interviews with a few potential users, created specific questionnaires about our understanding of these personas and asked them questions we felt were relevant with their beliefs when it comes to planting.
+
+Theoretically, proto-personas lack background research. Made with assumptions and our gut understanding of how they might be behaviourally, we imagine ourselves in their shoes. What was really interesting to me in this process was how apt we were when we made our assumptions when we decided our categorisation of these people (extremely pro for plants, the in between and people who don’t care). But even then, how we saw clearly upon interviewing that neither of them are anti- nature. The common insight we gained from
+each of these personas was that they would all like the process of planting to be less effort and time consuming- their cause of concern and neglect is the maintenance factor.
+
+Our final personas helped represent our user groups- having attributes of every user we interviewed- highlighting their traits and behaviours. This really made it easier for us as a group to be on the same page, imagining the same person as our user, to understand and maybe even relate to this person we built. The images that we chose to represent these people, however came from how we saw this final person adjusting everything we wrote into their lifestyle.
+
+This being the first time I’ve ever done personas, presenting them to the class actually helped me gain confidence in the process we’ve been applying. User experience design has the flexibility to use tools that best fit our process and suit our needs. To be able to make the right call at every decision making point is a crucial skill that I think I’m taking away from
+this class.
+
+#### 3
+**How do we organise all this information we just collected?**
+
+I’d say that we’re going somewhere with our experience of plant interaction, since we have a lot of inputs from different kinds of people. This has lead us to a diverse and informed understanding of their difficulties and experiences. But, it was all in our heads, and as audio files in our phones (which we only recorded after getting their consents).
+
+Having considered 3 proto-personas and 3 final personas with our process, we discussed and decided that it wouldn’t be justified to have an outlined user journey map for a person either buying or interacting with plants, because there isn’t an overarching process that would be the same for every person we interviewed. Nor would it fit with our personas.
+To organize all the data we had collected, we took the Affinity Mapping approach. After writing all their viewpoints on post-it’s from their interview, we put them up on a plain wall, organized them into broader themes and tried looking for patterns. We used different colors for different personas for organizing them better. It was safe to then formulate insights when there was physical backing in this manner. The same sets of post-it’s also acted as triggers for us to ask why the user was feeling a
+certain way and what could we do on our end to help solve their problems- leading us to our How Might We questions.
+
+Personally, after going through the content shared with us, I wish the customer-journey mapping would work in our process as well since it would also have been an interesting way of working. We think we will be making a map when our final output is ready/is under ideation because then there
+will be a structural way of considering a user’s behaviour and interaction with our solution. In the time being, I hope I’m able to understand the other approach as well when other groups share their own processes.
+
+#### 4
+**How must we help our users?**
+
+
+Our How Might We’s at the end of last week had already started triggering ideas within us. But translating an idea from our heads to a physical form has another kind of screening, which is prone to misunderstanding and open to criticism- sharing with the group and making them understand our ideas. Lucky for us, we didn’t have to struggle with that much since we borrowed the Crazy 8s method from the Sprint Process to go about ideation.
+
+Beginning with jotting down terms we associate with our understanding of the problem at hand and using them as triggers for us to think, each of us timed ourselves to 8 minutes and began the process. No judgement, no critique and free flow of ideas was the plan, and at the end of it we were all pretty satisfied with our takes for the possible solutions. We then took some time to explain each of our sketches and silently voted for whatever stayed with us the most. The part here that I enjoyed thoroughly was how either most of our ideas could be combined as a whole, or they were so unique in their own beauty that it was tough to decide what to do with them. Here’s where we decided to backtrack and look deeper into the idea- what is it successfully able to solve and what does it not help with at all. Again, leading us to our best idea using the method of elimination.
+
+So far, I can fairly visualise an app or a tablet-product being able to cater to most of our ideas combined. But then again, it is questionable how apps are also not the best interfaces for solutions because a user can’t be pushed to use apps as much as they would voluntarily choose to play around
+with a gadget. These decisions need be taken collectively as a group before we begin prototyping. At this point, I’m glad we’re on schedule with our initial timeline.
+
+#### 5
+**What’s the one thing you see in your room and truly call it your own?**
+
+There was an insight I gained much after our ideation process based on the fact that plants are living beings and should be seen and treated like that. But before getting to that, going back to the question put forth, it’s definitely not the cloth items we own or the devices we keep. Factually, each
+of these don’t entirely have a life of their own. They’re materialistic things. But say, you have a pet.
+
+How differently do you see this situation now?
+
+Plants are pets to those who can’t afford to keep animals (be it time/money/effort). The relationship between a pet and the owner wasn’t so different either. It’s only after all this time that there has been a disconnection in our relationship with nature, and with plants at a more concentrated level.
+I think this was a thought that had been guiding my work all from the beginning but it was only towards the end that it all began making sense.
+We presented our system, service and product in our final presentation. The feedback we received was pretty genuine. Riyaz asked us to name the UX strategies we were able to apply, other than our process. It took some thinking to tell him how communities and influences really drive experiences
+and one of our insights actually spoke about how plants generate this sense of positivity in a space.
+
+We were also suggested to look into extreme users such as people allergic to plants and how we must include them in the system. For this I must admit we didn’t have the time to think about accommodating those users but I’m sure we would have if we’d taken it further. The halo can be a distraction, between a plant and a user striking through the direct connection. That could also be worked upon by reducing the size of the hologram, or having it generated at times it needs to be.
+One crucial thing we’ve all seemed to agree upon is that a problem can’t be solved thoroughly, it’s a journey of experiences tying one after another that work for some, not all. Very often it comes down to bringing about a trend. People do crave experiences over materialistic objects. That was also a lesson from class 101. I absolutely enjoyed how it all came together. Thank you, Vineeta!
