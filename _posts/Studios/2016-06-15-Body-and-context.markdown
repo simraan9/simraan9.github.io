@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Subjective = n.Objectives : A Scene"
+title:  "✨ Subjective = n.Objectives : A Scene"
 date:   2016-06-15 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

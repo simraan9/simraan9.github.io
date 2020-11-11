@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "✍️ How Advertisements Shape Perception "
+title:  "✨ How Advertisements Shape Perception "
 date:   2017-03-24 22:54:06 +0530
 categories: [Reflection, Studios]
 ---
