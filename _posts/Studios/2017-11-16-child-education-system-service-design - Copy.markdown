@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Child Education: Service Design 1"
+title:  "✨ Child Education: Service Design 1"
 date:   2017-11-16 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

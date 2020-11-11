@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "✍️ Do Gamers have insight for Interaction Design? "
+title:  "✍️✨ Do Gamers have insight for Interaction Design? "
 date:   2019-08-02 22:54:06 +0530
 categories: [Reflection, Pre Thesis]
 ---

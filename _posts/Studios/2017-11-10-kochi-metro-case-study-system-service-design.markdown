@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Kochi Metro (Case Study): Service Design 1"
+title:  "✨ Kochi Metro (Case Study): Service Design 1"
 date:   2017-11-10 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

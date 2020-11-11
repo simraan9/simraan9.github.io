@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Fundamentals of Human Centered Design "
+title:  "✨ Fundamentals of Human Centered Design "
 date:   2018-07-15 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

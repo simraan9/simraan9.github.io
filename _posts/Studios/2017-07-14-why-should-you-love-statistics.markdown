@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Why you should love Statistics"
+title:  ✨ Why you should love Statistics"
 date:   2017-07-14 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

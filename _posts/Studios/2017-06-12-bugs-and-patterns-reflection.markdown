@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Bugs and Patterns : The Bug Problem"
+title:  "✨ Bugs and Patterns : The Bug Problem"
 date:   2017-06-12 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

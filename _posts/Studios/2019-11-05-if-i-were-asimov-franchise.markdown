@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Electoral Campaign & AI in India 2030, A Speculative Play"
+title:  "✨ Electoral Campaign & AI in India 2030, A Speculative Play"
 date:   2018-10-10 17:13:15 +0530
 category: [Story, Studios]
 <!-- primary: primary -->

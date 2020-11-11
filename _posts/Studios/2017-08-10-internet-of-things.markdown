@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 IoT"
+title:  "✨ IoT"
 date:   2017-08-10 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

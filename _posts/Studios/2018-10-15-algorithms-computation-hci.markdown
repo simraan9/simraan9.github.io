@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Algorithms, Computation and HCI "
+title:  "✨ Algorithms, Computation and HCI "
 date:   2018-10-15 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

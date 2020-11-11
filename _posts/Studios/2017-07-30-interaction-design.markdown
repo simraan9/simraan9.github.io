@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Interaction Design "
+title:  "✨ Interaction Design "
 date:   2017-07-30 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Say It With Charts "
+title:  "✨ Say It With Charts "
 date:   2017-08-07 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

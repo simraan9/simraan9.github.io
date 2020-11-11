@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Joy Of Data - Documentary"
+title:  "✨ Joy Of Data - Documentary"
 date:   2017-09-23 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

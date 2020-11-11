@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Communicating Statistics with the Media"
+title:  "✨ Communicating Statistics with the Media"
 date:   2018-03-14 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

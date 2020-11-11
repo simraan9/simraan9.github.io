@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 The Bell Curve"
+title:  "✨ The Bell Curve"
 date:   2017-07-30 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

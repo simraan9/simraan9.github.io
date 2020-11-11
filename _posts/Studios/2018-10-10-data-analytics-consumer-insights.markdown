@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 When I found Data Analytics for Consumer Insights"
+title:  "✨ When I found Data Analytics for Consumer Insights"
 date:   2018-10-10 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

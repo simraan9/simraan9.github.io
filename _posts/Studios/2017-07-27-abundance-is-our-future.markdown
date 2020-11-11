@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Abundance is our future"
+title:  "✨ Abundance is our future"
 date:   2017-07-27 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->

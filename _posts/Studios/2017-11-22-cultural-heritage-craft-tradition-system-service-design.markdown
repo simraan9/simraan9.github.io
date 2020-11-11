@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗭 Cultural heritage and value of craft traditions: Service Design 1"
+title:  "✨ Cultural heritage and value of craft traditions: Service Design 1"
 date:   2017-10-10 17:13:15 +0530
 category: [Reflection, Studios]
 <!-- primary: primary -->
