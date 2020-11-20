@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "👁️‍🗨 7,8: Scratching the surface of Complexity  ✍️"
+title:  "👁️‍🗨 Scratching the surface of Complexity [8]✍️"
 date:   2020-04-24 17:13:15 +0530
 category: [Reflection, Summer19]
 <!-- secondary: secondary -->
@@ -170,3 +170,7 @@ My parents, who were the OGs of planning and upbringing me, as I would be kicked
 Vineeta Rath, for reminding me of all the BodyFirst mantras. They’re algorithmic and I see it.
 
 My friends for all their support. They helped me get back up each time I saw no hope. I hope I do all of this justice.
+
+
+
+(Reflection: Week 7,8 and until summer 2020)
