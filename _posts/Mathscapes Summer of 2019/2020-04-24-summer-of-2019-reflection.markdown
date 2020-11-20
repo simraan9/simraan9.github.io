@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "👁️‍🗨 Scratching the surface of Complexity [8]✍️"
+title:  "👁️‍🗨 What interning at Mathscapes taught me [8]✍️"
 date:   2020-04-24 17:13:15 +0530
 category: [Reflection, Summer19]
 <!-- secondary: secondary -->
 ---
 
 ## **Mathscapes Summer of 2019**
+
 [Medium Link](https://medium.com/mathscapes/mathscapes-summer-of-2019-7a8cca7607df)
 
 	> I think I understood the nuances of dealing with complexity.
