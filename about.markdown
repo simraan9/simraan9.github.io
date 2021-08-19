@@ -12,8 +12,6 @@ permalink: /about/
 
 To get in touch,<a href="mailto:simran.singh9@yahoo.com"  style="color:blue" > write to me here!</a>
 
-
-
 <br>
 
 <b>Find my work at:</b> | [➡️ Portfolio](simran.myportfolio.com) | [➡️ Medium](https://medium.com/mathscapes/mathscapes-summer-of-2019-7a8cca7607df) | [➡️ CV](https://drive.google.com/file/d/1VVQ9AaGRVm1gUY8PoJm1TMz0NhFruGRe/view) |
