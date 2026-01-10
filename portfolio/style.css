@@ -1,1 +1,22 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  color: #111;
+}
+
+header {
+  margin-bottom: 80px;
+}
+
+nav a {
+  margin-right: 16px;
+  text-decoration: none;
+  color: #111;
+}
+
+section {
+  margin-bottom: 80px;
+}
 
