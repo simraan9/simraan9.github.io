@@ -2,39 +2,75 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Simran Singh — Product Designer</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simran Singh</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-  <header>
-    <h1>Simran Singh</h1>
-    <p>Product designer focused on clear, usable systems.</p>
-    <nav>
-      <a href="#work">Work</a>
-      <a href="#about">About</a>
-      <a href="../assets/resume.pdf" target="_blank">Resume</a>
-    </nav>
+  <!-- HEADER -->
+  <header class="header">
+    <img id="avatar" src="assets/avatar-designer.png" alt="Simran Singh"/>
+    <div>
+      <h1>Simran Singh</h1>
+      <p class="meta">Product Designer · Microsoft AI · Hyderabad, IN</p>
+    </div>
+
+    <div class="info">
+      <span id="infoToggle">ⓘ</span>
+      <div id="infoTooltip" class="hidden">
+        This page has multiple versions of me. Hover responsibly.
+      </div>
+    </div>
   </header>
 
-  <section id="work">
-    <h2>Selected Work</h2>
-    <h3>Case Study One</h3>
-    <p>Short description of the problem, your role, and outcome.</p>
-
-    <h3>Case Study Two</h3>
-    <p>Short description of the problem, your role, and outcome.</p>
+  <!-- HERO STATEMENT -->
+  <section class="hero">
+    <h2>I design growth experiences that respect curiosity, attention, and intent.</h2>
   </section>
 
-  <section id="about">
-    <h2>About</h2>
-    <p>
-      I work closely with product and engineering to solve ambiguous problems
-      with practical design decisions.
-    </p>
-  </section>
+  <!-- TABS -->
+  <nav class="tabs">
+    <button class="tab active" data-tab="designer">Product Designer</button>
+    <button class="tab" data-tab="outputs">Outputs</button>
+    <button class="tab" data-tab="hands">Hands-on</button>
+    <button class="tab" data-tab="educator">Educator</button>
+  </nav>
 
+  <!-- CONTENT -->
+  <main>
+    <section class="tab-content active" id="designer">
+      <p class="time">2021 – present</p>
+      <p class="serif">
+        At Microsoft AI, I design growth and engagement experiences across Bing
+        Search results and trivia-driven intents.
+      </p>
+      <p class="serif">
+        The work is hypothesis-led, fast-moving, and accountable to scale.
+      </p>
+      <p>
+        Not all insights come from formal research.<br>
+        Some come from judgment, iteration, and pattern recognition at scale.
+      </p>
+    </section>
+
+    <section class="tab-content" id="outputs">
+      <h3>Selected Outputs</h3>
+      <div class="projects">
+        <div class="card">Bing Trivia – Image Browsing</div>
+        <div class="card">Search Engagement Experiments</div>
+      </div>
+    </section>
+
+    <section class="tab-content" id="hands">
+      <p>Paper crafting, experiments, Discoverdrome, Sigmoid.</p>
+    </section>
+
+    <section class="tab-content" id="educator">
+      <p>Teaching design, algorithms, and systems thinking.</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
 </body>
 </html>
-
